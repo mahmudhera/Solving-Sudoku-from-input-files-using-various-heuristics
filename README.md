@@ -14,4 +14,4 @@ Next follows X lines, each containing three integers a, b, c -> that means the n
 The Report.pdf file contains a comparison of all the heuristics that have been implemented in the project.
 
 # For students of CSE, BUET
-Beware. If you copy this code, you will get caught and be awarded a negative 100% marks. This code is in CSe, BUET reporsitory.
+Beware. If you copy this code, you will get caught and be awarded a negative 100% marks. This code is in CSE, BUET reporsitory.
